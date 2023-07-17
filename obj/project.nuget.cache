@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QswMpZHUKrceUTT0fBabKxsz8Sgvkm9XSaL5Of17g7Nj03LlHif1v37C2jQgh8+ErnPcyAS5rNnPY4/WKfngdw==",
+  "success": true,
+  "projectFilePath": "/home/runner/FSharp/FSharp-Nix.fsproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
